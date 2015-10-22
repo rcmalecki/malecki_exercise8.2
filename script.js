@@ -21,7 +21,7 @@ Scripts to add text to the div portion of this site.
 	
 */
 
-function addTextToDiv() {
+function addDivText() {
 	//create a variable to select the desired div element
 	var addQuote = document.getElementById ('acdoyle');
 
